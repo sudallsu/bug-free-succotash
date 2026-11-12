@@ -1,0 +1,34 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android
+android/.gradle/
+android/local.properties
+android/app/build/
+android/build/
+android/key.properties
+android/*.jks
+android/*.keystore
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Firebase (민감 정보)
+android/app/google-services.json
+lib/firebase_options.dart
+ios/Runner/GoogleService-Info.plist
+
+# 기타
+server.log
+.DS_Store

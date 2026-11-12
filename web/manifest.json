@@ -1,0 +1,35 @@
+{
+    "name": "FanHub Archive",
+    "short_name": "FanHub",
+    "start_url": ".",
+    "display": "browser",
+    "background_color": "#FFF7F0",
+    "theme_color": "#FF6F61",
+    "description": "유튜버와 팬을 잇는 팬덤 아카이브",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
